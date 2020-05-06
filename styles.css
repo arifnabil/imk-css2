@@ -1,0 +1,154 @@
+body {
+  margin: 0px;
+  font-family: 'Cabin', sans-serif;
+  color: #00909e;
+}
+
+h1 {
+  font-family: 'Merienda', cursive;
+}
+
+.top {
+  text-align: center;
+}
+
+.middle {
+  text-align: center;
+  margin-bottom: 200px;
+}
+
+.bottom {
+  background-color: #daebe8;
+}
+
+.photo {
+  position: absolute;
+  border-color: #e4f9f5;
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 50%;
+  height: 75px;
+  width: 75px;
+  left: 30px;
+  top: 30px;
+}
+
+.menu {
+  text-align: right;
+  margin-top: 50px;
+  margin-bottom: 75px;
+}
+
+.menu-link {
+  color: #00909e;
+  margin: 20px 30px 20px 20px;
+  text-decoration: none;
+}
+
+.p1 {
+  font-size: 24px;
+}
+
+.images {
+  width: 500px;
+  height: 375px;
+}
+
+.photo-2 {
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  margin: 35px 0 0 0;
+  padding: 3px;
+}
+
+.profile {
+  text-align: center;
+  width: 800px;
+  margin: auto;
+}
+
+.profile-2 {
+  margin-top: 50px;
+}
+
+.pro {
+  font-family: 'Cabin', sans-serif;
+}
+
+.profile-row1 {
+  margin: 30px auto 30px 50px;
+  width: 90%;
+  text-align: left;
+  line-height: 2;
+}
+
+.profileimg1 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  margin-right: 30px;
+  padding: 6px;
+  border-style: solid;
+  border-width: 6px;
+  float: left;
+}
+
+.profile-row2 {
+  margin: 30px 50px 30px auto;
+  width: 90%;
+  text-align: left;
+  line-height: 2;
+}
+
+.profileimg2 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  margin-left: 30px;
+  padding: 6px;
+  border-style: solid;
+  border-width: 6px;
+  float: right;
+}
+
+.bottom-link1 {
+  margin: 20px;
+  margin-bottom: 0px;
+  color: #00909e;
+  text-decoration: none;
+}
+
+.bottom-link2 {
+  margin: 20px;
+  margin-bottom: 0px;
+  color: #667292;
+  text-decoration: none;
+}
+
+.bottom-menu1 {
+  margin: 20px auto 0 auto;
+  text-align: center;
+  line-height: 2;
+}
+
+.bottom-menu2 {
+  margin: 0 auto 0 auto;
+  text-align: center;
+  line-height: 2;
+}
+
+.hr-top {
+  border-style: dotted none none;
+  border-color: #00909e;
+  border-width: 5px;
+  height: 0px;
+}
+
+.hr-bottom {
+  margin-bottom: 40px;
+  border-color: #00909e;
+  width: 20%;
+}
